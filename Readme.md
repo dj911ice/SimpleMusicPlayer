@@ -1,0 +1,1 @@
+Simple Music Player is a successor to ExoPlayerKotlin project.
